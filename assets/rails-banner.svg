@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+  <title id="title">Ruby on Rails — Thoughtful software. Reliable systems.</title>
+  <desc id="desc">A warm charcoal and orange banner with an animated request moving through API, database, and background job nodes.</desc>
+  <style>
+    .signal { animation: flow 7s ease-in-out infinite; }
+    .halo { animation: breathe 4s ease-in-out infinite; transform-origin: 810px 110px; }
+    @keyframes flow { 0%,10% { transform: translateX(0); opacity:0; } 20% { opacity:1; } 80% { opacity:1; } 90%,100% { transform: translateX(250px); opacity:0; } }
+    @keyframes breathe { 0%,100% { opacity:.25; transform:scale(.95); } 50% { opacity:.65; transform:scale(1.08); } }
+    @media (prefers-reduced-motion: reduce) { .signal,.halo { animation:none; } }
+  </style>
+  <rect width="960" height="230" rx="20" fill="#252422"/>
+  <path d="M32 197H928" stroke="#403D39"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="49" font-size="13" letter-spacing="3" fill="#EB5E28">RUBY ON RAILS / FULL STACK DEVELOPER</text>
+    <text x="36" y="105" font-size="37" font-weight="700" letter-spacing="-1" fill="#FFFCF2">Thoughtful software.</text>
+    <text x="36" y="151" font-size="37" font-weight="700" letter-spacing="-1" fill="#EB5E28">Reliable systems.</text>
+    <text x="38" y="216" font-size="11" letter-spacing="2" fill="#CCC5B9">MUHAMMAD FURQAN</text>
+    <path d="M620 110H870" stroke="#CCC5B9" stroke-width="2" stroke-opacity=".25"/>
+    <circle class="halo" cx="810" cy="110" r="48" fill="none" stroke="#EB5E28"/>
+    <circle class="signal" cx="620" cy="110" r="5" fill="#EB5E28"/>
+    <g fill="#403D39" stroke="#CCC5B9" stroke-opacity=".4">
+      <rect x="599" y="88" width="44" height="44" rx="12"/>
+      <rect x="699" y="88" width="44" height="44" rx="12"/>
+      <rect x="799" y="88" width="44" height="44" rx="12"/>
+    </g>
+    <g fill="#FFFCF2" font-size="11" text-anchor="middle">
+      <text x="621" y="114">API</text><text x="721" y="114">DB</text><text x="821" y="114">JOB</text>
+    </g>
+    <text x="721" y="162" font-size="11" fill="#CCC5B9" text-anchor="middle">Request. Process. Deliver.</text>
+  </g>
+</svg>

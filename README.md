@@ -1,14 +1,12 @@
-<img align="right" src="https://raw.githubusercontent.com/furqan-056/furqan-portfolio/main/public/furqan-cutout.png" alt="Muhammad Furqan" width="150" />
+![Building reliable systems with Ruby on Rails](assets/rails-banner.svg)
 
 # Hi, I'm Muhammad Furqan
 
-### Software Engineer · Ruby on Rails · Backend Development
+### Full Stack Developer · Ruby on Rails
 
 I build reliable backend systems, clear APIs, and practical AI-powered workflows. Based in **Lahore, Pakistan**, I work across healthcare software, search, background processing, and automation.
 
 [Portfolio](https://furqan-portfolio-kohl.vercel.app/) · [LinkedIn](https://linkedin.com/in/muhammmadfurqan56) · [Email](mailto:m.furqannasir56@gmail.com)
-
-<br clear="right" />
 
 ## What I work on
 
@@ -18,6 +16,8 @@ I build reliable backend systems, clear APIs, and practical AI-powered workflows
 - **AI & automation:** Python workflows, Django products, and conversational interfaces.
 
 ## Tech stack
+
+![Ruby, Rails, PostgreSQL, Elasticsearch, Python, Django, Git and GitHub](https://skillicons.dev/icons?i=ruby,rails,postgres,elasticsearch,python,django,git,github&theme=dark&perline=8)
 
 | Focus | Technologies |
 | --- | --- |
