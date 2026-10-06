@@ -8,6 +8,12 @@ I build reliable backend systems, clear APIs, and practical AI-powered workflows
 
 [Portfolio](https://furqan-portfolio-kohl.vercel.app/) · [LinkedIn](https://linkedin.com/in/muhammmadfurqan56) · [Email](mailto:m.furqannasir56@gmail.com)
 
+## Coding activity
+
+My learning-project contributions are on [mfurqan-01](https://github.com/mfurqan-01). The graph updates as that account's public contribution counts change; private repositories and commit details stay hidden.
+
+[![GitHub contribution graph for mfurqan-01](https://ghchart.rshah.org/2ea44f/mfurqan-01)](https://github.com/mfurqan-01)
+
 ## What I work on
 
 - **Ruby on Rails applications:** maintainable domain models, REST APIs, and role-based workflows.
